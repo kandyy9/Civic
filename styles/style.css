@@ -1,0 +1,27 @@
+.generation{
+    margin: 1.5em auto;
+    transition: opacity 0s;
+}
+
+.generation-num{
+    display: inline-block;
+    font-family: Lato;
+    color: #868686;
+    box-shadow: black 2px;
+    font-size: 73px;
+    margin: 0 2%;
+    vertical-align: middle;
+}
+
+.main-text{
+    vertical-align: middle;
+    display: inline-block;
+    font-family: "Roboto";
+    font-size: calc(15px + 0.390625vw);
+    width: 40%;
+}
+
+.generation-photo{
+    vertical-align: middle;
+    width: 40%;
+}
